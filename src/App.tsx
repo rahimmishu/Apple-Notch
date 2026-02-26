@@ -137,7 +137,7 @@ function Nav() {
       </div>
 
       <a
-        href="/notch.exe"
+        href="/Notch-Setup.exe"
         download
         className="ml-auto hidden md:flex items-center gap-1.5 text-xs font-semibold bg-white text-black px-4 py-1.5 rounded-xl hover:bg-white/90 transition-colors duration-200"
       >

@@ -76,7 +76,7 @@ export default function Hero() {
           className="flex flex-col items-center gap-4 sm:flex-row"
         >
           <motion.a
-            href="/notch.exe"
+            href="/Notch-Setup.exe"
             download
             whileHover={{ scale: 1.02 }}
             whileTap={{ scale: 0.98 }}
