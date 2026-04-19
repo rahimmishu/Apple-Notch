@@ -17,7 +17,7 @@ export default function Footer() {
       links: [
         { label: "Help Center", href: "/support", isInternal: true },
         { label: "Contact Us", href: "mailto:support@notch.app", isInternal: false },
-        { label: "Discord", href: "#", isInternal: false },
+        { label: "Creator Portfolio", href: "https://rahim-saroar.vercel.app/", isInternal: false },
       ]
     },
     {
@@ -143,7 +143,15 @@ export default function Footer() {
             >
               <Heart className="w-3.5 h-3.5 text-rose-500 fill-rose-500" />
             </motion.span>
-            by Rahim Saroar
+            by 
+            <a 
+              href="https://rahim-saroar.vercel.app/" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="transition-colors hover:text-white hover:underline underline-offset-4"
+            >
+              Rahim Saroar
+            </a>
           </motion.div>
         </div>
       </div>

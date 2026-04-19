@@ -134,6 +134,7 @@ function Nav() {
         <Link to="/" className="transition-colors duration-200 hover:text-white/90">Features</Link>
         <Link to="/learn-more" className="transition-colors duration-200 hover:text-white/90">Learn More</Link>
         <Link to="/support" className="transition-colors duration-200 hover:text-white/90">Support</Link>
+        <a href="https://rahim-saroar.vercel.app/" target="_blank" rel="noopener noreferrer" className="transition-colors duration-200 hover:text-white/90">Developer</a>
       </div>
 
       <a
